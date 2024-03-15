@@ -1,0 +1,33 @@
+.helpContainer {
+    background-color: black;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between; 
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+
+    p {
+        color: #fff;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 133%;
+        font-variant: small-caps;
+    }
+    
+    a {
+        color: #fff;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 133%;
+        font-variant: small-caps;
+
+    }
+
+    .help{
+        display: flex;
+        gap: 23px;
+    }
+
+    .register{
+    }
+
+}

@@ -1,0 +1,9 @@
+.iconsHeroContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heroIcons {
+  width: 15px;
+}/*# sourceMappingURL=WeKnow.module.css.map */

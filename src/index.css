@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,300;400;900;&family=Montserrat:wght@500&family=Roboto:wght@300;400;500;700&display=swap");
+#root {
+  --font-family: "Roboto", sans-serif;
+  --second-family: "Inter", sans-serif;
+  --third-family: "Montserrat", sans-serif;
+}
+
+a {
+  font-family: var(--font-family);
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  font-variant: small-caps;
+  color: #000;
+}
+
+p {
+  font-family: var(--font-family);
+}
+
+.container {
+  padding: 0 98px;
+}
+
+body {
+  width: 1366px;
+}/*# sourceMappingURL=index.css.map */
